@@ -61,7 +61,7 @@
     "pg": "7.6.0",
     "pg-hstore": "2.3.2",
     "plato": "1.7.0",
-    "sqlite3": "4.0.3",
+    "sqlite3": "4.0.8",
     "swagger-tools": "^0.10.3",
     "v8-profiler": "5.7.0"
   },
