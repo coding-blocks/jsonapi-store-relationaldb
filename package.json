@@ -31,7 +31,7 @@
     "yarn": ">=1"
   },
   "dependencies": {
-    "@types/sequelize": "4.27.32",
+    "@types/sequelize": "4.28.0",
     "async": "2.6.1",
     "debug": "4.1.0",
     "joi": "14.0.4",
