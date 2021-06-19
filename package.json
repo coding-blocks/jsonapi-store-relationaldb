@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@types/sequelize": "4.27.32",
-    "async": "2.6.1",
+    "async": "3.0.1",
     "debug": "4.1.0",
     "joi": "14.0.4",
     "lodash": "4.17.11",
